@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO
+=======
+hello everyone . This is modified features_details.txt
+>>>>>>> feature-update
