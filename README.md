@@ -9,3 +9,6 @@ this is <sup>superscript</sup>
 <div style="border: 2px solid red; padding: 10px; background-color: lightyellow;">
   <b>This is a bordered and colored section!</b>
 </div>
+| **Bordered Section** |
+|----------------------|
+| This is inside a border |
